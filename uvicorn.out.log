@@ -1,0 +1,12 @@
+INFO:     127.0.0.1:56778 - "GET /static/styles.css HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56779 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56780 - "GET /static/src/app.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52254 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52254 - "GET /static/styles.css HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52578 - "GET /static/src/app.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52578 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:63264 - "POST /api/turn HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53134 - "POST /api/turn HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56157 - "POST /api/turn HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59529 - "POST /api/turn HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49802 - "POST /api/turn HTTP/1.1" 200 OK
