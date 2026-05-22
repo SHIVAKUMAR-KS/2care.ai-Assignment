@@ -576,13 +576,7 @@ Required deliverables:
 - GitHub repository with complete code
 - README with setup, architecture, memory, latency, tradeoffs, and limitations
 - Architecture diagram in `docs/`
-- Loom video up to 3 minutes
 
-Suggested Loom flow:
 
-1. Show UI and book an appointment in English.
-2. Show Hindi or Tamil language detection.
-3. Show cancellation or rescheduling.
-4. Point to the trace panel and latency badge.
-5. Briefly explain backend structure and memory design.
+
 
